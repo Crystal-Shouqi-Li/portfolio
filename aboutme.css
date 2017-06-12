@@ -3,3 +3,7 @@
 text-align:center;
 display:block;
 }
+body {
+    background-image: url("gradient_bg.png");
+    background-repeat: repeat-x;
+}
